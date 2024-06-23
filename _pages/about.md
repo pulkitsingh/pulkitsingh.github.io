@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. PhD Student in Computational Neuroscience, UChicago
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the Computational Neuroscience program at The University of Chicago, advised by [David Freedman](https://monkeylogic.uchicago.edu/). I am interested in vision and decision making, and work on computational modeling of non-human primate categorization experiments. In addition, I work on developing biologically-inspired machine learning methods. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I spent three years as an ML Engineer at the [Machine Learning for Health (ML4H)](https://www.broadinstitute.org/ml4h) team at the Broad Institute of MIT and Harvard. Whilst there, I co-developed a natural language processing pipeline for cerebrovascular disease identification, with applications to clinical trials. I also trained computer vision models to perform risk prediction and disease subgroup classification.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated with honors from Princeton University, with a BA in Computer Science, and minors in Cognitive Science and Statistics+Machine Learning. My undergraduate thesis, advised by [Tom Griffiths](https://cocosci.princeton.edu/tom/index.php), explored cognitively-inspired constraints on neural networks performing categorization. 
+
+I am passionate about community organization and scientific equity, more info here. In my free time, I enjoy knitting, wheel throwing ceramics, reading cozy mystery books, biking, and going on walks to find new favorite trees. 
