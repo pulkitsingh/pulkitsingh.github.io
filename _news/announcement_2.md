@@ -6,5 +6,4 @@ related_posts: false
 ---
 
 June 2020: Excited to join the [Machine Learning for Health (ML4H)](https://www.broadinstitute.org/ml4h) 
-group at the Broad Institute of MIT and Harvard as an ML Engineer! :dna: 
-:woman_technologist_medium_dark_skin_tone:
+group at the Broad Institute of MIT and Harvard as an ML Engineer! 
